@@ -1,0 +1,1 @@
+YUI.add("moodle-mod_bayesian-util-base",function(o,d){o.namespace("Moodle.mod_bayesian.util")},"@VERSION@");

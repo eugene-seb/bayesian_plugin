@@ -1,0 +1,21 @@
+{
+  "name": "moodle-mod_bayesian-util",
+  "builds": {
+    "moodle-mod_bayesian-util-base": {
+      "jsfiles": [
+        "base.js"
+      ]
+    },
+    "moodle-mod_bayesian-util-slot": {
+      "jsfiles": [
+        "slot.js"
+      ]
+    }
+    ,
+    "moodle-mod_bayesian-util-page": {
+      "jsfiles": [
+        "page.js"
+      ]
+    }
+  }
+}

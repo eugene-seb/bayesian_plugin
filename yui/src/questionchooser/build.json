@@ -1,0 +1,10 @@
+{
+    "name": "moodle-mod_bayesian-questionchooser",
+    "builds": {
+        "moodle-mod_bayesian-questionchooser": {
+            "jsfiles": [
+                "questionchooser.js"
+            ]
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "name": "moodle-mod_bayesian-bayesianbase",
+    "builds": {
+        "moodle-mod_bayesian-bayesianbase": {
+            "jsfiles": [
+                "bayesianbase.js"
+            ]
+        }
+    }
+}

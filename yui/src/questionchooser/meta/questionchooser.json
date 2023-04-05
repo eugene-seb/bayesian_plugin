@@ -1,0 +1,9 @@
+{
+    "moodle-mod_bayesian-questionchooser": {
+        "requires": [
+            "moodle-core-chooserdialogue",
+            "moodle-mod_bayesian-util",
+            "querystring-parse"
+        ]
+    }
+}

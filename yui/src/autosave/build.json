@@ -1,0 +1,10 @@
+{
+    "name": "moodle-mod_bayesian-autosave",
+    "builds": {
+        "moodle-mod_bayesian-autosave": {
+            "jsfiles": [
+                "autosave.js"
+            ]
+        }
+    }
+}

@@ -1,0 +1,6 @@
+completionpass,mod_bayesian
+completionpassdesc,mod_bayesian
+completionpass_help,mod_bayesian
+completiondetail:passgrade,mod_bayesian
+gradetopassnotset,mod_bayesian
+basicideasofbayesian,mod_bayesian

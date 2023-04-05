@@ -1,0 +1,10 @@
+{
+    "name": "moodle-mod_bayesian-modform",
+    "builds": {
+        "moodle-mod_bayesian-modform": {
+            "jsfiles": [
+                "modform.js"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "moodle-mod_bayesian-dragdrop",
+    "builds": {
+        "moodle-mod_bayesian-dragdrop": {
+            "jsfiles": [
+                "dragdrop.js",
+                "section.js",
+                "resource.js"
+            ]
+        }
+    }
+}
