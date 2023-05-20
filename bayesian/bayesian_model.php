@@ -8,7 +8,7 @@
  * difficile (aucune réponse correcte).
  * 
  * @* @param array const les réponses correctes
- * @* @param array var les réponses de l'étudiant
+ * @* @param array const les réponses de l'étudiant
  */
 function prob_difficultes($reponses_corrects, $reponses_candidats) {
 	
@@ -118,3 +118,5 @@ $difficultes = prob_difficultes($reponses_corrects, $reponses_eleves);
 $note_finale = bayesian_eval($reponses_correctes, $difficultes, $reponses_eleves[0]);
 echo "La note finale de l'élève_0 est de : " . $note_finale;
 
+$note_finale = bayesian_eval($reponses_correctes, $difficultes, $reponses_eleves[1]);
+echo "La note finale de l'élève_1 est de : " . $note_finale;
