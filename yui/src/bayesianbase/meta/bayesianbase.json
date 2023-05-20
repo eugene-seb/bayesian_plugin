@@ -1,8 +1,0 @@
-{
-    "moodle-mod_bayesian-bayesianbase": {
-        "requires": [
-            "base",
-            "node"
-        ]
-    }
-}

@@ -1,6 +1,0 @@
-{
-    "plugintypes": {
-        "bayesian": "mod\/bayesian\/report",
-        "bayesianaccess": "mod\/bayesian\/accessrule"
-    }
-}
