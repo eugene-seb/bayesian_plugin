@@ -1,9 +1,0 @@
-{
-    "moodle-mod_bayesian-modform": {
-        "requires": [
-            "base",
-            "node",
-            "event"
-        ]
-    }
-}
