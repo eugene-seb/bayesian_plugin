@@ -1,6 +1,8 @@
 Explications du théorème de Bayes:
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=video&cd=&cad=rja&uact=8&ved=2ahUKEwiEw_39gfX-AhWDT6QEHUeYDq4Qz40FegQICBAl&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dvvx7WuswOsU&usg=AOvVaw2Z3nF6L8lgkcQNeOOResfM
 
+https://www.google.com/search?q=th%C3%A9or%C3%A8me+de+bayes&sxsrf=APwXEde1DraQB9Lqr7N1WFQA8Rre2i81rA:1683977599369&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiMwfq0mfL-AhXlV6QEHV0pD0wQ_AUoAnoECAEQBA&biw=1488&bih=874&dpr=1.25#fpstate=ive&vld=cid:b9074f47,vid:vvx7WuswOsU
+
 
 Les réseaux bayésiens sont une méthode de modélisation statistique pour représenter des relations de dépendance probabilistes complexes entre des variables. Ils peuvent être utilisés pour effectuer des tâches telles que la classification, la prédiction et la reconnaissance de formes. Les réseaux bayésiens utilisent des graphes acycliques dirigés pour représenter les relations entre les variables et des probabilités conditionnelles pour quantifier ces relations.
 
